@@ -5,7 +5,7 @@ Bedrock Edition Changes:
 - Fixed ranking issues with LuckPerms.
 - Changed MOTD.
 - Fixed device placeholders.
-- Fixed scoreboard to be less laggy.
+- Made scoreboard less laggy.
 
 Java Edition Changes:
 - ...
