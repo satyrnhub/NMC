@@ -12,3 +12,4 @@ Java Edition Changes:
 
 Global Changes:
 - Fixed Tablist sorting.
+- (Possibly) made scoreboard less laggy.
